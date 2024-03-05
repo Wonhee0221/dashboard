@@ -1,0 +1,14 @@
+.shape{
+  height: 0;
+  width: 0;
+  border-bottom: 30px solid black;
+  border-left : 30px solid transparent;
+  border-right: 30px solid transparent;
+}
+
+.rectangle{
+  height: 40px;
+  width: 50px;
+  border: 1px solid red;
+  background-color: chartreuse;
+}
